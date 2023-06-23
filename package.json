@@ -1,0 +1,12 @@
+{
+  "name": "eslint-plugin-prop-types-comments",
+  "version": "1.0.0",
+  "description": "ESLint plugin for rule that checks comments in propTypes object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anastasia Shchedrina",
+  "license": "ISC"
+}
